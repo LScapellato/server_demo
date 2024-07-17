@@ -1,0 +1,21 @@
+# Ignorar node_modules
+node_modules
+
+# Ignorar archivos de configuración local
+.env
+.DS_Store
+
+# Ignorar logs
+npm-debug.log
+yarn-error.log
+
+# Ignorar dependencias instaladas localmente
+/node_modules
+
+# Ignorar directorios de salida
+#dist
+build
+
+# Ignorar archivos de configuración del editor/IDE
+.vscode
+.idea
